@@ -1,0 +1,46 @@
+{
+  "Task-Data": [
+    {
+      "task": "water",
+      "status": "completed",
+      "id": 2
+    },
+    {
+      "task": "vegitables",
+      "status": "completed",
+      "id": 3
+    },
+    {
+      "task": "banana",
+      "status": "completed",
+      "id": 4
+    },
+    {
+      "task": "milk",
+      "status": "completed",
+      "id": 5
+    }
+  ],
+  "user-Data": [
+    {
+      "name": "Montu Kumar",
+      "userName": "montu06",
+      "email": "kmontu207@gmail.com",
+      "contact": "7988917376",
+      "password": "montumom",
+      "DOB": "2000-04-05",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "rostam",
+      "userName": "rustam123",
+      "email": "kmontu207@gmail.com",
+      "contact": "7988917376",
+      "password": "3214354234",
+      "DOB": "2023-06-09",
+      "gender": "Male",
+      "id": 2
+    }
+  ]
+}
